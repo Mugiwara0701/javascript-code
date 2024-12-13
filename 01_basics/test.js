@@ -1,3 +1,3 @@
 console.log("Akshat Nautiyal")
 
- console.log("MERN")
+ console.log("MERN javascript")
